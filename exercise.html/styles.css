@@ -1,0 +1,35 @@
+body{
+background-color:  powderblue;
+
+}
+
+img{
+    width:35%;
+    height: 300px;
+}
+
+h1{
+    color:white;
+    text-align: center;
+    font-style: oblique;
+}
+p{text-align:center;
+color: gray;
+text-decoration:line-above;
+
+ul{
+    color:lightgrey;
+    text-align: center;
+}
+li{
+    color:darkgrey;
+    text-align: center;
+}
+table{
+    color:blueviolet;
+}
+form{
+    color:darkkhaki;
+    text-align: center;
+    border-color: whitesmoke;
+}
