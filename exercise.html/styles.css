@@ -3,6 +3,10 @@ background-color:  powderblue;
 
 }
 
+.classExample{
+    background-color: red;
+}
+
 img{
     width:35%;
     height: 300px;
@@ -32,4 +36,13 @@ form{
     color:darkkhaki;
     text-align: center;
     border-color: whitesmoke;
+}
+div{
+    font-style: oblique;
+}
+
+
+
+links{
+    color:navy;
 }
