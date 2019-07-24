@@ -1,0 +1,64 @@
+#static{
+    background-color: purple;
+    font-size: 28px;
+    font-style:oblique;
+    color: white;
+position:static;
+border: 8px solid #f01dde;
+padding:29px;
+margin:15px;
+
+}
+
+#relative{
+    background-color: blue;
+    font-size: 23px;
+    font-style:oblique;
+    color: white;
+    position: relative;
+    left:25px;
+    border: 10px solid black;
+    padding: 15px;
+    margin: 18px;
+}
+
+#absolute{
+    background-color: cyan;
+    font-size: 32px;
+    font-style: oblique;
+    color:white;
+    position:absolute;
+    top:87px;
+    right:27px;
+    width: 300px;
+    height:200px;
+    border: 15px solid blanchedalmond;
+    padding: 34px;
+    margin: 12px;
+}
+
+#sticky{
+    background-color: green;
+    font-size: 39px;
+    font-style: oblique;
+    color:white;
+    position:-webkit-sticky;/*Safari*/
+    position:sticky;
+    top:0;
+    border: yellowgreen;
+
+}
+#fixed{
+    background-color: yellow;
+    font-size: 48px;
+    font-style: oblique;
+    color:white;
+    position:fixed;
+    bottom:0;
+    right:0;
+    width: 250px;
+    border: 37px solid black;
+}
+h2{
+    color:white;
+}
