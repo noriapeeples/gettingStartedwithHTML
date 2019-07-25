@@ -11,6 +11,10 @@ body{
     text-align: center;
     text-shadow: 28px 29px purple;
     height:100px;
+    position:static;
+    top:100px;
+    left:75px;
+    right:75px;
     }
 
 
@@ -25,10 +29,17 @@ li{
 p{
     border:solid 10px purple;
     padding:30px;
+    position:relative;
+left: 50px;
+top:100px;
 }
 h1{
     margin-left: 20px;
 color: purple;
+position: relative;
+top:300;
+right:25px;
+left:5px;
 }
 h2{
     margin-right: 25px;
@@ -41,6 +52,24 @@ h3{
     color:purple;
 }
 #acting{
-    border: 4px dotted white;
+    border: 25px solid purple;
     width: 50%;
+    position:relative;
+    left:20px;
+    bottom:50px;
+
 }
+
+#awards{
+    border:4px dotted white;
+    width:200px;
+    padding:25px;
+
+}
+img.center{
+    z-index: -1;
+}
+
+
+
+
