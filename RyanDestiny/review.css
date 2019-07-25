@@ -1,0 +1,46 @@
+body{
+    background-color: plum;
+    border: 4px dotted white;
+    margin:10px;
+    padding:25px;
+
+}
+
+#RyanDestiny{
+    color: white;
+    text-align: center;
+    text-shadow: 28px 29px purple;
+    height:100px;
+    }
+
+
+
+li{
+    color: white;
+}
+
+#music{
+    border: 4px dotted white;
+}
+p{
+    border:solid 10px purple;
+    padding:30px;
+}
+h1{
+    margin-left: 20px;
+color: purple;
+}
+h2{
+    margin-right: 25px;
+}
+h3{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+    color:purple;
+}
+#acting{
+    border: 4px dotted white;
+    width: 50%;
+}
