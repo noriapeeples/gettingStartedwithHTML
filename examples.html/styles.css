@@ -5,6 +5,7 @@ background-color:  powderblue;
 
 .classExample{
     background-color: red;
+    font-family: 'Merienda', cursive;
 }
 
 img{
@@ -15,11 +16,12 @@ img{
 h1{
     color:white;
     text-align: center;
-    font-style: oblique;
+
 }
 p{text-align:center;
 color: gray;
 text-decoration:line-above;
+font-family: 'Butterfly Kids', cursive;
 
 ul{
     color:lightgrey;
