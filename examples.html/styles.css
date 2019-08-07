@@ -48,3 +48,13 @@ div{
 links{
     color:navy;
 }
+a:hover {
+  color: gray;
+text-decoration: underline;
+}
+a:link {
+  color: #FF0000;
+}
+a:active {
+  color: #0000FF;
+}
